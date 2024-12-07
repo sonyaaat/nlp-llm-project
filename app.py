@@ -48,7 +48,7 @@ def run_app(rag_model):
             
             - *"What position does Josko Gvardiol play, and how much did Manchester City pay for him?"*  
             - *"Who are the presidents of the United States?"*
-            - *"Which player won the Ballon d'Or in 2024?"*
+            - *"Which player won the Ballon d'Or in 2024?"*(BM25+combined search)
             - *"What notable achievements did Jack Draper accomplish during his breakout season on the ATP Tour in 2025?"*
             - *"How did Oscar Piastri and Lando Norris perform in sprint qualifying at the Sao Paulo Grand Prix, and what challenges did Max Verstappen face?"*
 
